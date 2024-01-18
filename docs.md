@@ -1,6 +1,6 @@
 ![logo](https://solliancepublicdata.blob.core.windows.net/images/synovus-logo-red.svg)
 
-## Azure Environments
+## Azure OpenAI Live Environments
 
 | Name                                                                                                           | Azure RG                                                                                                                                                           | Build Status | Last Update | OpenAI Region |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | ----------- | ------------- |
